@@ -1,0 +1,4 @@
+/backend/.env
+/backend/node_modules/
+/rets_openhouse.sql
+/rets_property.sql
